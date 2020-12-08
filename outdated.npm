@@ -1,0 +1,4 @@
+Package    Current   Wanted  Latest  Location
+cypress     4.12.1   4.12.1   6.1.0  cra-template-react-cypress-django
+faker        4.1.0    4.1.0   5.1.0  cra-template-react-cypress-django
+react-dom  16.14.0  16.14.0  17.0.1  cra-template-react-cypress-django
