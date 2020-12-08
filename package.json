@@ -50,7 +50,7 @@
     "cypress-file-upload": "^4.0.7",
     "faker": "^5.1.0"
   },
-  "description": "This project was bootstrapped with [Create React App with Cypress](https://github.com/cypress-io/cra-template-cypress).",
+  "description": "This project was bootstrapped with [Create React App with Djano-Cypress](https://github.com/mukaiguy/cra-template-django-cypress).",
   "main": "index.js",
   "repository": {
     "type": "git",

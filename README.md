@@ -10,6 +10,7 @@ npx create-react-app <your-app_name> --template cra-template-django-cypress
 yarn create react-app <your-app_name> --template cra-template-django-cypress
 
 ```
+## This Templated come bundeled with:
 ```json
 "dependencies": {
     "@testing-library/jest-dom": "5.11.6",
@@ -31,7 +32,9 @@ yarn create react-app <your-app_name> --template cra-template-django-cypress
     "rxjs": "^6.6.2",
     "typescript": "^4.1.2"
 },
-
+```
+## For Testing your app,
+```json
   "devDependencies": {
     "cypress": "^6.1.0",
     "cypress-file-upload": "^4.0.7",
