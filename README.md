@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App with Cypress](https://github.com/cypress-io/cra-template-cypress).
+This project was inspired by [Create React App with Cypress](https://github.com/cypress-io/cra-template-cypress) and [Create React App PWA template](https://create-react-app.dev/docs/making-a-progressive-web-app).
 
 ## Available Scripts
 
