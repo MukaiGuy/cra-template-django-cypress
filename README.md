@@ -10,9 +10,35 @@ npx create-react-app <your-app_name> --template cra-template-django-cypress
 yarn create react-app <your-app_name> --template cra-template-django-cypress
 
 ```
+```json
+"dependencies": {
+    "@testing-library/jest-dom": "5.11.6",
+    "@testing-library/react": "11.2.2",
+    "@testing-library/user-event": "12.5.0",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "bootswatch": "^4.5.3",
+    "formik": "^2.1.5",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-toastify": "^6.0.8",
+    "rxjs": "^6.6.2",
+    "typescript": "^4.1.2"
+},
 
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "cypress-file-upload": "^4.0.7",
+    "faker": "^5.1.0"
+  },
 
-
+```
 
 # This Project is still under development
 ## Available Scripts
