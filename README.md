@@ -1,5 +1,20 @@
-This project was inspired by [Create React App with Cypress](https://github.com/cypress-io/cra-template-cypress) and [Create React App PWA template](https://create-react-app.dev/docs/making-a-progressive-web-app).
+# A React App with all the basics for django and cypress.
 
+
+```shell
+npx create-react-app <your-app_name> --template cra-template-django-cypress
+
+# or
+
+# untested 
+yarn create react-app <your-app_name> --template cra-template-django-cypress
+
+```
+
+
+
+
+# This Project is still under development
 ## Available Scripts
 
 In the project directory, you can run:
@@ -69,8 +84,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
+
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+
+This project was inspired by [Create React App with Cypress](https://github.com/cypress-io/cra-template-cypress) and [Create React App PWA template](https://create-react-app.dev/docs/making-a-progressive-web-app).
