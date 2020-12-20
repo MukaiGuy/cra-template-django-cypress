@@ -1,6 +1,6 @@
 {
   "name": "cra-template-django-cypress",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "5.11.6",
